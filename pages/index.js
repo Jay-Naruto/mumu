@@ -20,7 +20,7 @@ export default function Home() {
 
            <div className='section1Container' >
             <div  className='section1ContainerTitle' >
-              Welcome to<br></br>Mumu
+             $mumu
             </div>
             <div  className='section1ContainerAddress' >
               Contract address : 0xAadDA4286642c25e0b9e74cf3303BB3f6f3214c8

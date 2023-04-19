@@ -10,7 +10,8 @@ body{
   align-items: center;
   overflow-x: hidden;
   flex-direction: column;
-  background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,12,123,1) 32%, rgba(0,209,253,1) 95%, rgba(0,212,255,1) 100%);
+  background: rgb(248,196,156);
+background: linear-gradient(0deg, rgba(248,196,156,1) 0%, rgba(234,178,135,1) 22%, rgba(234,188,153,1) 46%, rgba(232,204,182,1) 100%);
 }
 @font-face {
   font-family: Text;
@@ -64,7 +65,7 @@ margin: 10px;
 .section1ContainerBtns button {
  
   
-  background-color: #00b3e0;
+  background-color: #d06311;
   color: #FFFFFF;
   border-radius: 10px;
 }
@@ -156,7 +157,7 @@ padding: 10px;
   justify-content: center;
   align-items: center;
   flex-direction: row;
-  background-color: #282e7b;
+  background-color: #d06311;
   padding: 20px 50px;
   color: white;
   font-family: 'Archivo Narrow', sans-serif;
@@ -273,7 +274,7 @@ margin: 10px;
 .section1ContainerBtns button {
  
   
-  background-color: #00b3e0;
+  background-color: #d06311;
   color: #FFFFFF;
   border-radius: 10px;
 }
@@ -365,7 +366,7 @@ padding: 10px;
   justify-content: center;
   align-items: center;
   flex-direction: row;
-  background-color: #282e7b;
+  background-color: #d06311;
   padding: 20px 50px;
   color: white;
   font-family: 'Archivo Narrow', sans-serif;
